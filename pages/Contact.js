@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-      <code style={styles.code}>/pages/Contact.js 정다훈 201930325</code>
+      <code>/pages/Contact.js 정다훈 201930325</code>
     </>
   )
 }
