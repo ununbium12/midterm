@@ -1,12 +1,13 @@
 import { Inter } from 'next/font/google'
-import styles from '@/styles/Home.module.css'
+import Navbar from '@/components/Navber'
 
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
     <>
-      <code>/About.js 정다훈 201930325</code>
+    <Navbar />
+      <code>/posts/index.js 정다훈 201930325</code>
     </>
   )
 }

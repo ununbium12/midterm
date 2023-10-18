@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
     <Navbar />
-      <code>/pages/index.js 정다훈 201930325</code>
+      <code>/index.js 정다훈 201930325</code>
     </>
   )
 }
